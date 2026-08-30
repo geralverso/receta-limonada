@@ -5,7 +5,7 @@
 - Agua: 1 litro
 - Azucar: 4 cucharadas
 
-## Pasos 
+## Pasos:
 - Exprimir los limones
 - Mezclar con el agua y el azucar
 - Servir fria
@@ -13,3 +13,6 @@
 ## Variacion
 - Menta: 6 hojas
 - Machacarlas ligeramente antes de servir
+
+## Servir
+- Hielo: 6 cubos
