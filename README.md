@@ -7,3 +7,5 @@ Proyecto de practica del curso Git y Github (PIT 2026, UNI).
 
 ## Porciones
 4 vasos
+
+Publicada en GitHub en la sesión 4 (˶ˆᗜˆ˵)
