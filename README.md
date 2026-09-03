@@ -6,6 +6,6 @@ Proyecto de practica del curso Git y GitHub (PIT 2026, UNI).
 - Ramas y merges de la sesión 3
 
 ## Porciones
-6 vasos
+8 vasos
 
 Publicada en GitHub en la sesión 4 (˶ˆᗜˆ˵)
